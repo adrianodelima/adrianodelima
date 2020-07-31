@@ -1,4 +1,4 @@
-<p align="center"><img height="400" src = "https://i.imgur.com/aTMLvyA.jpg"></p>  
+<p align="center"><img height="250" src = "https://i.imgur.com/aTMLvyA.jpg"></p>  
 
 **Sobre mim:**
 
