@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center"><img height="400" src = "https://i.imgur.com/aTMLvyA.jpg"></p>  
 
-<!--
-**adrianodelima/adrianodelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre mim:**
 
-Here are some ideas to get you started:
+- 🐱‍👤 Meu nome é Adriano de Lima.
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Sempre interessado em aprimorar habilidades em Web Dev.
+- ❤ Front-End.
+ 
+**Você pode me encontrar em:**
+|  <a align="center"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|<a href="https://www.linkedin.com/in/adrianodelima/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>
+<a href="mailto:adrianodelima785@hotmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-outlook-1868952-1583116.png" width="32px" height="32px"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
