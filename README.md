@@ -8,7 +8,6 @@
 - ❤ Front-End.
  
 **Você pode me encontrar em:**
-|  <a align="center"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |<a href="https://www.linkedin.com/in/adrianodelima/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>
 <a href="mailto:adrianodelima785@hotmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-outlook-1868952-1583116.png" width="32px" height="32px"></a>
