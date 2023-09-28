@@ -3,7 +3,7 @@
 **Sobre mim:**
 
 - 🐱‍👤 Meu nome é Adriano de Lima.
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Sempre interessado em aprimorar habilidades em Web Dev.
 - ❤ Front-End.
  
